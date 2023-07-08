@@ -1,0 +1,59 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.blazethemes.com/newsmatic-one
+Data file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/147/2022/12/newsmaticpro.WordPress.2022-12-08.xml
+Widget file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/147/2022/12/demo.blazethemes.com-newsmatic-pro-one-widgets.wie
+Customizer file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/147/2022/12/newsmatic-pro-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Newsmatic : Banner Ads - No Title - Imported
+Newsmatic : Social Icons - No Title - Imported
+
+Left Sidebar : 
+
+Newsmatic : Posts Grid - No Title - Imported
+
+Header Toggle Sidebar : 
+
+Newsmatic : Widget Title - No Title - Imported
+Navigation Menu - No Title - Imported
+Newsmatic : Posts List - No Title - Imported
+
+Frontpage - Middle Right Sidebar : 
+
+Newsmatic : Posts List - No Title - Imported
+Newsmatic : Posts Grid 2 Column - No Title - Imported
+Newsmatic : Banner Ads - No Title - Imported
+
+Frontpage - Middle Left Sidebar : 
+
+Newsmatic : Banner Ads - No Title - Imported
+Newsmatic : Posts List - No Title - Imported
+
+Footer Sidebar - Column 1 : 
+
+Newsmatic : Popular Posts Slider - No Title - Imported
+
+Footer Sidebar - Column 2 : 
+
+Newsmatic : Posts List - No Title - Imported
+
+Footer Sidebar - Column 3 : 
+
+Newsmatic : Popular Posts Slider - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
